@@ -1,6 +1,8 @@
 # Racket-compund-interest-macro
 
-;  --------------------------------------------------------------------------------------------------The kind of questions that I'd like to answer are:
+;  --------------------------------------------------------------------------------------------------
+
+The kind of questions that I'd like to answer are:
 
 For getting the CI amounts year wise:
 
