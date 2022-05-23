@@ -4,6 +4,8 @@
 
 The kind of questions that I'd like to answer are:
 
+; local done.
+
 For getting the CI amounts year wise:
 
 (ci 20k 8% 10) => Answer 
