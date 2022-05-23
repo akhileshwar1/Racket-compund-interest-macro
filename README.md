@@ -10,6 +10,8 @@ The kind of questions that I'd like to answer are:
 
 For getting the CI amounts year wise:
 
+; the remote is first now.
+
 (ci 20k 8% 10) => Answer 
 (ci 20k 8%) => (ci 20k 8% 10)
 (ci 20k) => (ci 20k 8 10)
