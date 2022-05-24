@@ -17,7 +17,7 @@ For getting the CI amounts year wise:
 For getting the CI amounts year wise given that I have a yearly payment or a monthly payment as an i
 -nput:
 
-;x
+;x;
 
 (ci 20k 8 10 1000 monthly) => (list of (year-no amt))
 (ci 20k 8 10 1000 yearly) => (list of (year-no amt))
